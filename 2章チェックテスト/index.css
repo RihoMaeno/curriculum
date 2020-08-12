@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    text-align: center;
+    font-family: "Yu Mincho";
+    color:white;
+    margin-top: 100px;
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 50px;
+    border-bottom: solid 2px white;
+
+}
+.text{
+    margin-top: 20px;
+}
